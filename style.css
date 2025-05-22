@@ -1,0 +1,29 @@
+
+h1{
+  background-color: brown;
+}
+p{
+  background-color: blanchedalmond;
+}
+#lorem1{
+  background-color: aqua;
+}
+#lorem2{
+  background-color: beige;
+}
+.group1{
+  background-color: blueviolet;
+}
+.group2{
+  background-color: blue;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+#title{
+  background-color: blue;
+  margin: 20px;
+  padding: 10px; 
+  
+}
